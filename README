@@ -1,1 +1,5 @@
 code for porject 1 in FYS 3150, did not have time to finish, but will finish it later
+
+compile by:
+$ g++ task2.cpp -o task2
+# ./task2
